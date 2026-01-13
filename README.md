@@ -6,8 +6,8 @@
 📍 Bhubaneswar, Odisha, India
 
 [![Email](https://img.shields.io/badge/Email-rudraprasadjena79%40gmail.com-red)](mailto:rudraprasadjena79@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-RudraPrasadJena-black)](https://github.com/RudraPrasadJena)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-link-here)
+[![GitHub](https://img.shields.io/badge/GitHub-RudraPrasadJena-black)](https://github.com/rudraprasadjena1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rudra-prasad-jena-/)
 
 ---
 
