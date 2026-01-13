@@ -37,25 +37,20 @@ Computer Science engineer focused on cybersecurity, bridging offensive security 
 
 ### 🔐 SecureSphere – Quantum-Safe Messaging Platform
 Post-quantum encrypted messaging system using Kyber-512 + Dilithium-2 + AES-256-GCM  
-👉 https://github.com/RudraPrasadJena/SecureSphere
+👉 https://github.com/rudraprasadjena1/SecureSphere
 
 ### 📧 QuMail – Post-Quantum Secure Email System
 Secure email backend with Kyber key exchange & Dilithium signatures, Gmail/Outlook compatible  
-👉 https://github.com/RudraPrasadJena/QuMail
+👉 https://github.com/rudraprasadjena1/qumail-backend
 
 ### 🕵️ PII Detection & Redaction Tool
 Python tool using OpenCV + NLP regex (95% detection accuracy)  
-👉 https://github.com/RudraPrasadJena/PII-Detection-Redaction
+👉 https://github.com/rudraprasadjena1/pii-protection
 
 ### 🧪 Custom Mail Generator for Research Internships
 NLP automation using CrossRef & Semantic Scholar APIs  
-👉 https://github.com/RudraPrasadJena/Research-Mail-Generator
+👉 https://github.com/rudraprasadjena1/Thunderbolt
 
-### 📡 Packet Sniffer using Python
-Real-time traffic analysis using Scapy  
-👉 https://github.com/RudraPrasadJena/Packet-Sniffer
-
-*(If any repo name differs, just adjust the link)*
 
 ---
 
