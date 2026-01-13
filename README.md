@@ -96,3 +96,6 @@ English (Professional) · Hindi (Fluent) · Odia (Native)
 
 
 > "Break systems to understand them. Understand systems to protect the world."
+>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/rudraprasadjena79)
