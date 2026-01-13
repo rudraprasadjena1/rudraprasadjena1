@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Rudra
+![](https://komarev.com/ghpvc/?username=rudraprasadjena1)
 
 🎓 B.Tech student | 🔐 Offensive Security & Bug Bounty  
 🚀 Aspiring cybersecurity researcher & engineer  
