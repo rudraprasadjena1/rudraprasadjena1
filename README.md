@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Rudra
 
-<!--
-**rudraprasadjena1/rudraprasadjena1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student | 🔐 Offensive Security & Bug Bounty  
+🚀 Aspiring cybersecurity researcher & engineer  
+🧠 Interested in cryptography, reverse engineering, and quantum-safe systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Penetration Testing & Bug Bounty
+- Web Security (OWASP Top 10)
+- Python, JavaScript, Bash
+- Cryptography: RSA, ECC, Kyber, Dilithium
+- Reverse Engineering (CTFs)
+- React, Flask, Django
+
+---
+
+## 🔬 Projects
+
+- 🔐 Quantum-Safe Communication System (Kyber + Dilithium)
+- 🕵️ Client-side Dark Web Monitoring Tool
+- 📄 Document-QA System for Insurance Policies
+- 🧪 Packet Sniffer & PII Redaction Tool
+
+---
+
+## 🎯 Current Focus
+
+- Advanced bug bounty techniques  
+- Post-quantum cryptography  
+- Binary exploitation & RE  
+- Building real-world security tools
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/RudraPrasadJena  
+- LinkedIn: (add when ready)
+
+---
+
+> "Break systems to understand them. Understand systems to protect the world."
