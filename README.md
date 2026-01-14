@@ -86,6 +86,10 @@ Sambalpur University Institute of Information Technology
 
 ---
 
+## 🏆 Achievements
+-  Got third place in the AI hackathon conducted by Suiit  
+- Active CTF participant on **TryHackMe** 
+
 ## 🌐 Languages
 
 English (Professional) · Hindi (Fluent) · Odia (Native)
