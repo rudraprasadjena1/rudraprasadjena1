@@ -103,3 +103,4 @@ English (Professional) · Hindi (Fluent) · Odia (Native)
 >
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rudraprasadjena79)
+![tryhackme stats](https://raw.githubusercontent.com/rudraprasadjena79/rudraprasadjena79/master/assets/thm_propic.png)
